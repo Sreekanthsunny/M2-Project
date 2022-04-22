@@ -1,0 +1,3 @@
+Arduino: ATmega328P 8-bit AVR Microcontroller with 32K Bytes
+Display:An electronic device that is used to display data and the message is known as LCD 16×2. As the name suggests, it includes 16 Columns & 2 Rows so it can display 32 characters (16×2=32) in total & every character will be made with 5×8 (40) Pixel Dots.
+Soil moisture sensor.
