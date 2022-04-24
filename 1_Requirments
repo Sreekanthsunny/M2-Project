@@ -2,5 +2,3 @@ Arduino Atmega 328p:ATmega328P is a low-power CMOS 8-bit microcontroller based o
 Display the output.16*2 LCD
 Soil moisture probes
 Resistors
-INTRODUCTION:A digital soil moisture meter is used for indicating the water content of a given soil sample. As crop production requires water at different stages and in different amounts, it is important to measure soil moisture from time to time to know its status.
-The digital soil moisture meter circuit presented here, for monitoring the soil moisture content in irrigation farms, is an electronic device that measures soil moisture content accurately and precisely. It measures the resistance of flow of the electric current between two metallic probes. These probes act as sensor elements that register moisture and change it into an electric value. This value is further processed into information in the form of an electronic display.
